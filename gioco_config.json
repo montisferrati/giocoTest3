@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-19T12:00:00Z",
+  "updatedAt": "2026-11-09T12:00:00Z",
   "minAppVersion": 1,
-  "latestTag": "v0.1.4",
+  "latestTag": "v0.1.5",
   "latestFolder": "release_v1",
   "note": "Configurazione JSON di gioco"
 }
